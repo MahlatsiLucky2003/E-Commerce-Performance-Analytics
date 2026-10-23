@@ -79,10 +79,10 @@ Analyzes customer acquisition funnels, tier progression dynamics, and purchasing
 
 ---
 
-## 6. Technology Stack
+## 6. Technology Stack Classification
 
-* **Data Platform & Storage:** Microsoft Fabric
-* **Orchestration & ETL:** Microsoft Fabric Data Factory, Dataflows Gen2
-* **Database Programming:** T-SQL, SQL Server Management Studio
-* **Data Modeling & Analytics:** Dimensional Modeling, Power BI Semantic Model, DAX
-* **System Design & Visuals:** Draw.io
+* **Cloud Data Platform & ETL Engineering:** Microsoft Fabric (Dataflows, Pipelines, Data Warehouse, Semantic Model)
+* **Query & Analytical Languages:** T-SQL, DAX
+* **Business Intelligence & Visualization:** Power BI
+* **System Architecture & Design:** Draw.io
+* **Documentation & Productivity:** Word, Excel

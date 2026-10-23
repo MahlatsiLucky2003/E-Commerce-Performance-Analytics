@@ -1,6 +1,6 @@
 # Enterprise E-Commerce Data Platform & Performance Analytics
 
-A modern, cloud-native data platform and analytics suite engineered to centralize raw transactional data, automate cross-functional ETL workflows, and deliver strategic business intelligence across sales, merchandise, and customer operations.
+An end-to-end data warehousing and business intelligence solution built on **Microsoft Fabric** to ingest, model, transform, and analyze e-commerce transactional data, driving actionable insights into sales revenue, product performance, and customer loyalty.
 
 ---
 

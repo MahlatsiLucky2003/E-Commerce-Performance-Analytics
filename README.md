@@ -55,7 +55,7 @@ Evaluates merchandise category mix, product turnover volumes, and average sellin
 ### User Demographics & Tier Insights Dashboard Overview
 Analyzes customer acquisition funnels, tier progression dynamics, and purchasing behavior across key demographic segments.
 
-![User Demographics & Tier Insights](03-Development/05-Dashboards%20and%20Reports/User%20Demographics%20%26%20Tier%20Insights%20Screenshot.png)
+<img src="03-Development/05-Dashboards and Reports/User Demographics & Tier Insights Screenshot.png" alt="User Demographics & Tier Insights" width="100%">
 
 ---
 

@@ -31,7 +31,7 @@ E-commerce enterprises frequently face operational bottlenecks due to fragmented
 The enterprise solution establishes a fully automated cloud pipeline. Raw operational files are ingested and sanitized through cloud dataflows into staging environments. An automated orchestration engine sequentially triggers data transformation scripts to refresh dimension models and populate fact records with resolved surrogate keys, ensuring full data integrity and idempotency.
 
 ### Architecture Diagram Screenshot
-![Sales & Revenue Overview](03-Development/05-Dashboards%20and%20Reports/Sales%20%26%20Revenue%20Overview%20Screenshot.png)
+![Architecture Diagram](02-Design/Architecture%20Diagram.png)
 
 ### Short Dashboard Overview
 An interactive three-tier business intelligence report built on top of a centralized semantic model, providing instant operational visibility for executive leadership, product managers, and marketing teams.
@@ -41,21 +41,21 @@ An interactive three-tier business intelligence report built on top of a central
 ### Sales & Revenue Overview Dashboard Overview
 Monitors top-line revenue, net margin health, order volume growth, and pricing variances over multi-year operational horizons.
 
-> *[03-Development/05-Dashboards and Reports/Sales & Revenue Overview Screenshot.png]*
+![Sales & Revenue Overview](03-Development/05-Dashboards%20and%20Reports/Sales%20%26%20Revenue%20Overview%20Screenshot.png)
 
 ---
 
 ### Product & Category Analytics Dashboard Overview
 Evaluates merchandise category mix, product turnover volumes, and average selling prices to optimize inventory allocation and product strategy.
 
-> *[03-Development/05-Dashboards and Reports/product & Category Analytics Screenshot.png]*
+![Product & Category Analytics](03-Development/05-Dashboards%20and%20Reports/product%20%26%20Category%20Analytics%20Screenshot.png)
 
 ---
 
 ### User Demographics & Tier Insights Dashboard Overview
 Analyzes customer acquisition funnels, tier progression dynamics, and purchasing behavior across key demographic segments.
 
-> *[03-Development/05-Dashboards and Reports/User Demographics & Tier Insights Screenshot.png]*
+![User Demographics & Tier Insights](03-Development/05-Dashboards%20and%20Reports/User%20Demographics%20%26%20Tier%20Insights%20Screenshot.png)
 
 ---
 

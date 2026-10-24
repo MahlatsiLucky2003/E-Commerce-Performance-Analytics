@@ -1,6 +1,6 @@
 # Enterprise E-Commerce Data Platform & Performance Analytics
 
-An end-to-end data warehousing and business intelligence solution built on **Microsoft Fabric** to ingest, model, transform, and analyze e-commerce transactional data, driving actionable insights into sales revenue, product performance, and customer loyalty.
+An end-to-end data warehousing and business intelligence solution built on Microsoft Fabric to ingest, model, transform, and analyze e-commerce transactional data, driving actionable insights into sales revenue, product performance, and customer loyalty.
 
 ---
 
@@ -27,7 +27,7 @@ E-commerce enterprises frequently face operational bottlenecks due to fragmented
 
 ## 4. Solution
 
-### Short Solution Overview
+### Solution Overview
 The enterprise solution establishes a fully automated cloud pipeline. Raw operational files are ingested and sanitized through cloud dataflows into staging environments. An automated orchestration engine sequentially triggers data transformation scripts to refresh dimension models and populate fact records with resolved surrogate keys, ensuring full data integrity and idempotency.
 
 ### Architecture Diagram

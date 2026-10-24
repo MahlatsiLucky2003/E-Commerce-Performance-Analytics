@@ -30,7 +30,7 @@ E-commerce enterprises frequently face operational bottlenecks due to fragmented
 ### Short Solution Overview
 The enterprise solution establishes a fully automated cloud pipeline. Raw operational files are ingested and sanitized through cloud dataflows into staging environments. An automated orchestration engine sequentially triggers data transformation scripts to refresh dimension models and populate fact records with resolved surrogate keys, ensuring full data integrity and idempotency.
 
-### Architecture Diagram Screenshot
+### Architecture Diagram
 ![Architecture Diagram](02-Design/Architecture%20Diagram.png)
 
 ### Short Dashboard Overview
